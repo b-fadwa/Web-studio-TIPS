@@ -110,5 +110,15 @@
       "timesheet"
     ],
     "link": "https://raw.githubusercontent.com/b-fadwa/Web-studio-TIPS/gh-build/build/timesheet.json"
+  },
+  {
+    "group": "wrkpass-v2",
+    "icon": "fa fa-calendar",
+    "tags": [
+      "template",
+      "times",
+      "timesheet"
+    ],
+    "link": "https://raw.githubusercontent.com/b-fadwa/Web-studio-TIPS/gh-build/build/wrkpass-v2.json"
   }
 ]
