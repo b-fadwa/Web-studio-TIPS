@@ -113,11 +113,9 @@
   },
   {
     "group": "wrkpass-v2",
-    "icon": "fa fa-calendar",
+    "icon": "fa fa-calendar-plus-o",
     "tags": [
-      "template",
-      "times",
-      "timesheet"
+      "template"
     ],
     "link": "https://raw.githubusercontent.com/b-fadwa/Web-studio-TIPS/gh-build/build/wrkpass-v2.json"
   }
