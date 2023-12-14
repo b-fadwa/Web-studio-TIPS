@@ -112,11 +112,11 @@
     "link": "https://raw.githubusercontent.com/b-fadwa/Web-studio-TIPS/gh-build/build/timesheet.json"
   },
   {
-    "group": "wrkpass-v2",
+    "group": "Team management",
     "icon": "fa fa-calendar-plus-o",
     "tags": [
       "template"
     ],
-    "link": "https://raw.githubusercontent.com/b-fadwa/Web-studio-TIPS/gh-build/build/wrkpass-v2.json"
+    "link": "https://raw.githubusercontent.com/b-fadwa/Web-studio-TIPS/gh-build/build/team-management.json"
   }
 ]
